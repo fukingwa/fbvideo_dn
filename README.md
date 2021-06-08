@@ -1,8 +1,8 @@
-# Download Facebook video from a list
+# Download Facebook videos from a file
 
 Usage:
-dload.sh list_of_fbvideolink.csv
+dload.sh list_of_fbvideolink.txt
 
-Requirements:
+Following softwares are required:
 Python 3.7 + selenium package
 ffmpeg
