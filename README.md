@@ -4,5 +4,5 @@ Usage:
 dload.sh list_of_fbvideolink.txt
 
 Following softwares are required:
-Python 3.7 + selenium package
+Python 3.7 + selenium + chromedriver 
 ffmpeg
